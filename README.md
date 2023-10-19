@@ -1,3 +1,4 @@
-# Primeiro Comit
+# Primeiro Comit :computer:
 ---
-### Esta é a descrição principal 
+### Temos indexados os seguintes arquivos:
+- text.md

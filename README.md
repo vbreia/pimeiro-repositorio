@@ -1,4 +1,4 @@
-# Primeiro Comit :computer:
+# Primeiro Repositório :computer:
 ---
 ### Temos indexados os seguintes arquivos:
 - text.md
